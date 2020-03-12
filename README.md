@@ -12,7 +12,7 @@ Do cut amount of iron Sticks using laser. For effcient work, stack iron sticks a
 ```
 
 Below Image is sample of arrangement. Thick lines are sticks, points are positions of lasers. dot line is laser's direction.
-
+![image](https://user-images.githubusercontent.com/26323486/76518047-c53f6580-64a1-11ea-955c-ce5e90ebde3d.png)
 This arrangement is represented by using brackets.
 ```
 (a) Laser is represented closed bracket '()'
